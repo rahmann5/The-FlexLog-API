@@ -17,7 +17,7 @@ FlexLog is a high-performance RESTful API built with **FastAPI** designed for at
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/flexlog-workout-api.git](https://github.com/YOUR_USERNAME/flexlog-workout-api.git)
+git clone [https://github.com/rahmann5/flexlog-workout-api.git](https://github.com/rahmann5/flexlog-workout-api.git)
 cd flexlog-workout-api
 ```
 ### 2. Set up a Virtual Environment
